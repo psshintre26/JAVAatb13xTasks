@@ -2,7 +2,7 @@ package Task24thJune2025_ifelseProgram;
 
 import java.util.Scanner;
 
-public class Lab004_CalculateGrade {
+public class Lab011_CalculateGrade {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Print your marks between 0 to 100");
