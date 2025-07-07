@@ -2,7 +2,7 @@ package Task24thJune2025_ifelseProgram;
 
 import java.util.Scanner;
 
-public class Lab002_LargestOfTwoNumbers {
+public class Lab009_LargestOfTwoNumbers {
     public static void main(String[] args) {
         int ilargest = 0;
         Scanner s = new Scanner(System.in);

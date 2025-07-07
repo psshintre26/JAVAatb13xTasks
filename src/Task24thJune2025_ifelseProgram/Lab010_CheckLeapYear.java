@@ -2,7 +2,7 @@ package Task24thJune2025_ifelseProgram;
 
 import java.util.Scanner;
 
-public class Lab003_CheckLeapYear {
+public class Lab010_CheckLeapYear {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter year");

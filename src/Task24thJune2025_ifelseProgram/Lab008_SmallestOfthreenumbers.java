@@ -2,7 +2,7 @@ package Task24thJune2025_ifelseProgram;
 
 import java.util.Scanner;
 
-public class Lab001_SmallestOfthreenumbers {
+public class Lab008_SmallestOfthreenumbers {
     public static void main(String[] args) {
 
 
